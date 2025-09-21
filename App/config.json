@@ -1,0 +1,18 @@
+{
+    "BUTTON_1": {
+        "type": "link",
+        "value": "https://www.makerworld.com"
+    },
+    "BUTTON_2": {
+        "type": "text",
+        "value": "Test"
+    },
+    "BUTTON_3": {
+        "type": "keypress",
+        "value": "Ctrl+Alt+Delete"
+    },
+    "BUTTON_4": {
+        "type": "exe",
+        "value": "C:/Users/boehl/Desktop/Ubisoft Connect.lnk"
+    }
+}
